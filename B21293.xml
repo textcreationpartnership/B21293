@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Wild's eccho, or, A full answer to his poem on the imprisonment of Master Calamy.</title>
+            <author>Wild, Robert, 1609-1679.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21293</idno><idno type="EEBO-CITATION">99888810</idno>
+  <idno type="VID">196239</idno>
+  <idno type="EEBO-PROQUEST">2240902061</idno>
+  
+            <idno type="STC">Wing D1767bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.6.[9]</idno>
+            <idno type="STC">ESTC R232093</idno>
+            <idno type="PROQUEST">ocm99888810</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888810e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196239)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Wild's eccho, or, A full answer to his poem on the imprisonment of Master Calamy.</title>
+                  <author>Wild, Robert, 1609-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Verse: Fair Umbra, I salute you, who wert made ...</note>
+                  <note>In three columns.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Calamy, Edmund, 1600-1666 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Imprisonment --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:196239:1"/>
+            <head>D<seg rend="sup">r.</seg> VVILD'S ECCHO, OR, A full Answer to his POEM on the IMPRISONMENT OF <hi>MASTER CALAMY.</hi>
+            </head>
+            <lg>
+               <l>FAir Umbra, I salute you, who wert made</l>
+               <l>
+                  <hi>(Ex nihilo nihil fit)</hi> Doctor of a shade</l>
+               <l>Poet in rhymes, great Oratour in sense,</l>
+               <l>Score up a man for his intelligence.</l>
+               <l>Whose Pulpit-Rhet'rick finds a Poetick aire</l>
+               <l>To damne the Sinner without book or prayer,<note place="margin">His Poeti<g ref="char:EOLhyphen"/>cal Droll upon a Sinner, is well remembred.</note>
+               </l>
+               <l>Clear words but misapply'd t' a sense most vext,</l>
+               <l>As if the Application slew the Text.</l>
+               <l>Well, 'tis resolv'd, that I do rout your rhymes:</l>
+               <l>Ev'n as the Gout doth recollect your crimes;</l>
+               <l>For ev'ry limb a grief: oh! here's the Sinner,</l>
+               <l>Who then must be the Man for t' Devils dinner.</l>
+               <l>This is your Pulpit stuff, then baste your roast</l>
+               <l>And turn, least you become a burned toast</l>
+               <l>And so Don <hi>Calamy</hi> shall be your hoast.</l>
+               <l>Methinks you sympathize, conversion small,</l>
+               <l>Where the first turning findes no grief at all,</l>
+               <l>Imprisonment, oh! that's a thing of price</l>
+               <l>
+                  <hi>Adam</hi> in prison was, in Paradise.</l>
+               <l>Imprisonment, thus <hi>Danae</hi> was in hold,</l>
+               <l>When <hi>Jupiter</hi> came raining down with gold.</l>
+               <l>Imprisonment, a stain, oh, that's a grace:</l>
+               <l>Black spots add beauty to the whitest face.</l>
+               <l>Imprisonment, who would not prisoner ly,</l>
+               <l>That he might fare, as once Don <hi>Calamy?</hi>
+               </l>
+               <l>Thus I have sav'd your humour, and your cause</l>
+               <l>But can't abide the breaking of our Laws.</l>
+               <l>Tell me then (Sir) wherein did lie his glory,</l>
+               <l>That He is made our Ages talk and story,</l>
+               <l>For his Imprisonment: All things observe</l>
+               <l>A rule in doing duty, and ne're swerve.</l>
+               <l>When that the Sun doth rise, and brightest shine</l>
+               <l>It still maintains its progress by the line.</l>
+               <l>When that the Stars do in heav'ns roads appear,</l>
+               <l>They regulate their motion by the sphear.</l>
+               <l>The beasts are grateful, and receive direction</l>
+               <l>From that hand, which doth give them a protection</l>
+               <l>The senceless Eccho hears the mouths confession,</l>
+               <l>And doubles or'e the speech in the expression.</l>
+               <l>The Sun may teach the factious Rout to shine,</l>
+               <l>And yet observe external discipline.</l>
+               <l>The Stars may learn the <hi>Presbyterian</hi> Seers</l>
+               <l>For to move regular within their sphears.</l>
+               <l>The Beasts may teach them for to take direction</l>
+               <l>From that kinde hand, that gives them a protection,</l>
+               <l>The hollow Eccho may learn them their shares,</l>
+               <l>To make Responsals to our Church's pray'rs.</l>
+               <l>Then save your Complement in the first Rhyme,</l>
+               <l>A punishment is nat'ral to a Crime.</l>
+               <l>If that the Sun should wander from its roade,</l>
+               <l>Darkness, its brighter Brow must strait-way loade.</l>
+               <l>If Stars should wanton it without their sphear,</l>
+               <l>They must not in heavens Gallaxy appear.</l>
+               <l>If Beasts are stubborn, and won't take direction</l>
+               <l>From th' Masters hand they must receive correction.</l>
+               <l>If Ecchoes don't repeat our voices or'e,</l>
+               <l>Wee'll stile them Mutes, and speake to them no more.</l>
+               <l>And thus you see each thing observes a Rule,</l>
+               <l>The Sun, the Stars, the Eccho, Horse and Mule.</l>
+               <l>And when they won't be to a rule confin'd,</l>
+               <l>They're punished according to their kinde.</l>
+               <l>And doth he less deserve a prison, then they</l>
+               <l>Correction, when they from their orders stray?</l>
+               <l>Imprisonment is proper to a lust:</l>
+               <l>And who so fowles his Coat must have it brusht.</l>
+               <l>Paine commonly accompanies a halt,</l>
+               <l>A prison is the sequel of a fault.</l>
+               <l>What bore he there for to perfume the place,</l>
+               <l>Himself, his wife, or any of his Race?</l>
+               <l>Or carried he the Church's pray'rs in's breast,</l>
+               <l>Such sweets as these, might have perfum'd that Nest,</l>
+               <l>For private pray'rs bear but an incense small,</l>
+               <l>But publick ones do carry most of all</l>
+               <l>'Tis question'd then, if hee'd there longer stood,</l>
+               <l>Whither he had not done more hurt then good.</l>
+               <l>For had those Newgate-birds observ'd his traces</l>
+               <l>They'd ev'ry one been turn'd out of their places.</l>
+               <l>And being past for breaking Law, might fly,</l>
+               <l>Escape (as He) for non-conformity.</l>
+               <l>His lying-in call'd his wife to the Bet</l>
+               <l>And so her hungry stomach well did get,</l>
+               <l>He Her did feed, she him again did nurse,</l>
+               <l>She gat her belly full, and he the purse.</l>
+               <l>And since you judge 't a mercy great, and free</l>
+               <l>I wish you all such lying in as He</l>
+               <l>And I shall envy <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, then you our p<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ces,</l>
+               <l>The Bishops ornaments, or richer faces.</l>
+               <l>But tell (my Lords) how you such faces got?</l>
+               <l>What do rich faces fall to you by lot?</l>
+               <l>Or came they from Jack <hi>Presbyters</hi> cutting tricks,</l>
+               <l>Who found such Shavers for your Bishopricks?</l>
+               <l>Or are they rich compar'd to their pincht jaws,</l>
+               <l>Whose narrow Conscience cries oh! at our Laws?</l>
+               <l>And can't conform: for why? it is a fault:</l>
+               <l>'Twill make their tender spirit limp and halt.</l>
+               <l>At what command then pray (Sir) will you fall?</l>
+               <l>I w<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h you do not stumble or'e them all.</l>
+               <l>Th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r faces are not (as yours) rich or known</l>
+               <l>By <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at which properly is not their own</l>
+               <l>Th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>'ve not so big a swallow, as your lust</l>
+               <l>W<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch strains at their Lawn sleeves, and eat their dust.</l>
+               <l>Th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> can't with conscience consume a Nation,</l>
+               <l>A<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> live on others rights by sequestration.</l>
+               <l>Th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cannot frame a pious gloss to rant,</l>
+               <l>A<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> kill the King by th'force of Covenant.</l>
+               <l>N<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> devour steeples, as you did the flock,</l>
+               <l>Y<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> neither spar'd the fleece, nor yet the stock,</l>
+               <l>B<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onsum'd all, forct Pastors from their sold,</l>
+               <l>A<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Churches unto private uses sold</l>
+               <l>M<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing the steeples look like empty sockets.</l>
+               <l>A<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> putting up the means into your pockets.</l>
+               <l>Pre<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ending highly to most greedy raptures</l>
+               <l>Ea<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th' Contents, and lay'd aside the Chapters</l>
+               <l>Ruining all, to build your Babel high</l>
+               <l>As if you meant a Gygantomachy</l>
+               <l>To merit by injustice, and by odds</l>
+               <l>To go to heaven, and there displace the gods.</l>
+               <l>And shall <hi>Smeck</hi>'s <hi>Egypt</hi> Tyranny be a Law?</l>
+               <l>Who kept the Brick themselves, left us the straw.</l>
+               <l>And must our Church then lean upon a Crutch?</l>
+               <l>We love their grace, but do their greatness grutch.</l>
+               <l>Bishops look to't old <hi>Smeck</hi> is still alive,</l>
+               <l>And, in him here, stands representative,</l>
+               <l>Complains of wrong, and yet behold the b- lest- east</l>
+               <l>By's keeping up a while is much encreast</l>
+               <l>Thus the Body nat'ral doth often fret</l>
+               <l>Its own estate, that so the Wen may get.</l>
+               <l>As for his preaching when that he was dead,</l>
+               <l>So once did speak <hi>Fryar Bacons</hi> brazen head.</l>
+               <l>Time is, when thou a non-conformist art,</l>
+               <l>And sleep'st, when thou should'st answer to thy part.</l>
+               <l>Time was, when thou didst once conform to mee,</l>
+               <l>And study'st how to make me eccho thee</l>
+               <l>Time is to come, when if thou on me call,</l>
+               <l>I'll be to thee a head Canonical.</l>
+               <l>Which being said, the Head did bow and fall,</l>
+               <l>Humbled it self, and spake no more at all,</l>
+               <l>With that the sluggard straightway did arise,</l>
+               <l>Instead of reverencing, did it despise.</l>
+               <l>Strongly affirm'd, that the head set up for merit</l>
+               <l>Was possest throughly with an evil spirit.</l>
+               <l>And that the Priests that were by It elected,</l>
+               <l>Were drunkards all, and <hi>Popishly</hi> affected,</l>
+               <l>Suspend it then: for th' Devil doth in't speak,</l>
+               <l>Condemn its follow'rs, and the head lets break.</l>
+               <l>But stay, thou man of tongue: what will you rave,</l>
+               <l>And ne're leave rayling at us in your grave?</l>
+               <l>Uncannon'd crime, pride grown, are you so far</l>
+               <l>From rule, that your dust turns irregular?</l>
+               <l>A <hi>Presbyterian</hi>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>most strongly draws</l>
+               <l>I'st crime canonical to break our Laws?</l>
+               <l>What is't your virtue for to make a rent</l>
+               <l>In State, and carp at the Church-government?</l>
+               <l>Now for our stealing Sermons, so you bawle,</l>
+               <l>That 'tis with us a crime Canonical.</l>
+               <l>But is't forgot, that you our lands did lurch?</l>
+               <l>'Tis your crime Classical to rob the Church.</l>
+               <l>We th' Antient Father's words do sometimes cite,</l>
+               <l>To give unto our Doctrine greater light.</l>
+               <l>But they're unpriviledg'd with you, no pledge,</l>
+               <l>'Cause they condemn your pride, and sacriledge.</l>
+               <l>Of what stuff then is made your pulpit prose?</l>
+               <l>Of so much of a <hi>Presbyters</hi> Hum; or Nose.</l>
+               <l>A novel Writer with th' Assemblies Note,</l>
+               <l>Considered, as strained through your throat,</l>
+               <l>Stands for as good Divinity with you,</l>
+               <l>As any of the Father's Writings do.</l>
+               <l>He that our sermons reads, in them o'relooks</l>
+               <l>Seas of divinity, yours shallow brooks.</l>
+               <l>A modern blast, blowing the Assemblies fire,</l>
+               <l>A pack of them being burnt will stame the higher.</l>
+               <l>'Tis fit, words, that were darker in your breath,</l>
+               <l>Should become true Enlightners at their death.</l>
+               <l>And since they serve for nought, but to provoke</l>
+               <l>Should turn to vapours, and possess a smoak.</l>
+               <l>Now to conclude, I wish you all your due,</l>
+               <l>Such Bishops as the Gout is unto you.</l>
+               <l>For Non-Conformists heretofore were known</l>
+               <l>To be most dreadful Drawers from the Crown.</l>
+               <l>Old <hi>Smecks</hi> proud Foot did claim the highest Seat,</l>
+               <l>Thence th' <hi>Presbyterian</hi> toes did swell so great.</l>
+               <l>They are with sturdy humours puft and grown</l>
+               <l>The greater they, the weaker is the Crown,</l>
+               <l>Let's then agree to bring their proud flesh down.</l>
+               <l>Starve their high humours to a humiliation</l>
+               <l>And bring their greatness low by deprivation.</l>
+               <l>And thus the Foot, and Toes may loose their pain,</l>
+               <l>And the Crown Mitr'd may its own regain.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
